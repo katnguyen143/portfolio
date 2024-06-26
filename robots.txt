@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: kathrynnguyen.com/al-folio/sitemap.xml
+Sitemap: kathrynnguyen.com/sitemap.xml
